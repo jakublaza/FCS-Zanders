@@ -1,2 +1,5 @@
-Erasmus_data_stresstesting_2024.pickle
-df_snapshot.csv
+* 
+
+!.gitignore
+!/Zanders-C-FinalReport.pdf
+!/FCS_code
