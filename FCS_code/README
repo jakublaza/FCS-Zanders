@@ -3,3 +3,5 @@ This folder includes the code used for the Financial Case Study Project.
 The files named FCS_code{number}_{name}.ipynb include the main pieces of our analysis, the ordering is based on how we proceeded with the analysis (each file can be run independently of others). In the utils.py file, you can find auxiliary functions used by the notebooks. 
 
 The MICE_forrest/ridge.py contains the script for missing values imputation that was run on a server, tagger.sh then shows the file that was used to send the job to the MetaCenturm server's computational resources.
+
+Note that the dataset is not included as we signed Non-Disclosure Agreement with Zanders.
